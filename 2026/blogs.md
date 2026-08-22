@@ -68,6 +68,8 @@ Please fill in your project information using this format:
 
 - [QuTiP](https://github.com/qutip/qutip/wiki//Google-Summer-of-Code-current)
   - [@mudit06mah](https://github.com/mudit06mah), Mudit Maheshwari, [GPU-enabled circuit simulation in qutip-qip](https://moodit.dev/blog/gsoc)
+  - [@Chinmay-Tangal](https://github.com/Chinmay-Tangal), Chinmay Tangal, [Large Scale HEOM solver using PETSc](https://chinmay-tangal.github.io/gsoc-blog/)
+
 - [scikit-bio](https://github.com/scikit-bio/scikit-bio/wiki/GSOC-2026-project-ideas)
 
   - [@monkeytim19](https://github.com/monkeytim19), Timothy Wong, [Succinct Data Structure for Efficient Operations on Trees](https://monkeytim19.github.io/)
